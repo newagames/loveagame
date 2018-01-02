@@ -1,8 +1,8 @@
 
 {
-    "name": "charleskeller/kizi",
-    "description": "Kizi Framework.",
-    "keywords": ["framework", "kizi"],
+    "name": "newagames/loveagame",
+    "description": "a game Framework.",
+    "keywords": ["framework", "a game"],
     "license": "MIT",
     "type": "project",
     "require": {
